@@ -1,0 +1,162 @@
+Name	Taste	Reference	SMILES	Canonical SMILES	In Bitter Domain	Sweet
+Alitame	Sweet	Rojas et al. (2017)	CC(COCNC1C(C)(C)SC1(C)C)NCOCC(CC(=O)O)N	CC(COCNC1C(C)(C)SC1(C)C)NCOCC(CC(=O)O)N		True
+Maltitol	Sweet	Rojas et al. (2017)	OCC(C(C(C(CO)O)O)OC1OC(CO)C(C(C1O)O)O)O	OCC(C(C(C(CO)O)O)OC1OC(CO)C(C(C1O)O)O)O		True
+Isomalt (Palatinit) / Isomaltitol	Sweet	Rojas et al. (2017)	OCC(C(C(C(COC1OC(CO)C(C(C1O)O)O)O)O)O)O	OCC(C(C(C(COC1OC(CO)C(C(C1O)O)O)O)O)O)O		True
+Erythritol	Sweet	Rojas et al. (2017)	OCC(C(CO)O)O	OCC(C(CO)O)O		True
+Rebaudioside B	Sweet	Rojas et al. (2017)	OCC1OC(OC23CCC4C(C2)(CC3=C)CCC2C4(C)CCCC2(C)C(=O)O)C(C(C1O)OC1OC(CO)C(C(C1O)O)O)OC1OC(CO)C(C(C1O)O)O	OCC1OC(OC23CCC4C(C2)(CC3=C)CCC2C4(C)CCCC2(C)C(=O)O)C(C(C1O)OC1OC(CO)C(C(C1O)O)O)OC1OC(CO)C(C(C1O)O)O		True
+Rebaudioside E	Sweet	Rojas et al. (2017)	OCC1OC(OC(=O)C2(C)CCCC3(C2CCC24C3CCC(C4)(C(=C)C2)OC2OC(CO)C(C(C2OC2OC(CO)C(C(C2O)O)O)O)O)C)C(C(C1O)O)OC1OC(CO)C(C(C1O)O)O	OCC1OC(OC(=O)C2(C)CCCC3(C2CCC24C3CCC(C4)(C(=C)C2)OC2OC(CO)C(C(C2OC2OC(CO)C(C(C2O)O)O)O)O)C)C(C(C1O)O)OC1OC(CO)C(C(C1O)O)O		True
+Raffinose	Sweet	Rojas et al. (2017)	OCC1OC(C(C1O)O)(CO)OC1OC(COC2OC(CO)C(C(C2O)O)O)C(C(C1O)O)O	OCC1OC(C(C1O)O)(CO)OC1OC(COC2OC(CO)C(C(C2O)O)O)C(C(C1O)O)O		True
+Rhamnose	Sweet	Rojas et al. (2017)	OC1C(C)OC(C(C1O)O)O	OC1C(C)OC(C(C1O)O)O		True
+Gentiobiose	Bitter	Rojas et al. (2017)	OCC1OC(OCC2OC(O)C(C(C2O)O)O)C(C(C1O)O)O	OCC1OC(OCC2OC(O)C(C(C2O)O)O)C(C(C1O)O)O		False
+Oleuropein	Bitter	Rojas et al. (2017)	OCC1OC(OC2OC=C(C(C2=CC)CC(=O)OCCc2ccc(c(c2)O)O)C(=O)OC)C(C(C1O)O)O	OCC1OC(OC2OC=C(C(C2=CC)CC(=O)OCCc2ccc(c(c2)O)O)C(=O)OC)C(C(C1O)O)O		False
+Caffeine 	Bitter	Rojas et al. (2017)	Cn1cnc2c1c(=O)n(C)c(=O)n2C	Cn1cnc2c1c(=O)n(C)c(=O)n2C		False
+Saccharin derivative 1	Sweet	Rojas et al. (2017)	Cc1ccc2c(c1)S(=O)(=O)NC2=O	Cc1ccc2c(c1)S(=O)(=O)NC2=O		True
+Compound 5	Sweet	Rojas et al. (2017)	COc1ccc(cc1O)C1OCc2c(C1)cccc2	COc1ccc(cc1O)C1OCc2c(C1)cccc2		True
+Isoflavan or 3-(3-Hydroxy-4-methoxyphenyl)-3,4-dihydro-2H-1benzopyran (10)	Sweet	Rojas et al. (2017)	COc1ccc(cc1O)C1COc2c(C1)cccc2	COc1ccc(cc1O)C1COc2c(C1)cccc2		True
+2-(3-Hydroxy-4-methoxyphenyl)-4,5-dihydro-1,3-benzodioxepine (11)	Tasteless	Rojas et al. (2017)	COc1ccc(cc1O)C1OCCc2c(O1)cccc2	COc1ccc(cc1O)C1OCCc2c(O1)cccc2		False
+Compound 25	Tasteless	Rojas et al. (2017)	COc1ccc(cc1O)C1OC(=O)c2c1cccc2	COc1ccc(cc1O)C1OC(=O)c2c1cccc2		False
+2-(3-Hydroxy-4-methoxyphenyl)-1,3-benzoxathiole (10e)	Sweet	Rojas et al. (2017)	COc1ccc(cc1O)C1Oc2c(S1)cccc2	COc1ccc(cc1O)C1Oc2c(S1)cccc2		True
+2-(3-Hydroxy-4-methylthiophenyl)-2,3-dihydro-1,4-benzoxathiine (15c)	Tasteless	Rojas et al. (2017)	CSc1ccc(cc1O)C1CSc2c(O1)cccc2	CSc1ccc(cc1O)C1CSc2c(O1)cccc2		False
+2-(3-Hydroxy-4-methoxyphenyl)-3,4-dihydro-2H-1-benzothiopyran (18)	Sweet	Rojas et al. (2017)	COc1ccc(cc1O)C1CCc2c(S1)cccc2	COc1ccc(cc1O)C1CCc2c(S1)cccc2		True
+3-(3-Hydroxy-4-methoxyphenyl)-3,4-dihydro-2H-1-benzothiopyran (19)	Tasteless	Rojas et al. (2017)	COc1ccc(cc1O)C1CSc2c(C1)cccc2	COc1ccc(cc1O)C1CSc2c(C1)cccc2		False
+2-(3-Mercapto-4-methoxyphenyl)-4H-3,1-benzoxathiine (23)	Sweet	Rojas et al. (2017)	COc1ccc(cc1S)C1OCc2c(S1)cccc2	COc1ccc(cc1S)C1OCc2c(S1)cccc2		True
+3,9,10-Trimethoxy-7,11b-dihydrobenz[b]indeno[1,2-d]pyran-4,6a-diol (6)	Tasteless	Rojas et al. (2017)	COc1cc2CC3(C(c2cc1OC)c1ccc(c(c1OC3)O)OC)O	COc1cc2CC3(C(c2cc1OC)c1ccc(c(c1OC3)O)OC)O		False
+4,9,10-Trimethoxy-7,11b-dihydrobenz[b]indeno[1,2-d]pyran-3,6a-diol (7)	Tasteless	Rojas et al. (2017)	COc1cc2c(cc1OC)CC1(C2c2ccc(c(c2OC1)OC)O)O	COc1cc2c(cc1OC)CC1(C2c2ccc(c(c2OC1)OC)O)O		False
+Tetramethylhaematoxylin (8)	Bitter	Rojas et al. (2017)	COc1cc2CC3(C(c2cc1OC)c1ccc(c(c1OC3)OC)OC)O	COc1cc2CC3(C(c2cc1OC)c1ccc(c(c1OC3)OC)OC)O		False
+Compound 8	Sweet	Rojas et al. (2017)	COc1ccc2c(c1O)CCC1C2CCC2(C1CCC2)C	COc1ccc2c(c1O)CCC1C2CCC2(C1CCC2)C		True
+Compound 17	Tasteless	Rojas et al. (2017)	COc1ccc(cc1)C1OCc2c(S1)cccc2	COc1ccc(cc1)C1OCc2c(S1)cccc2		False
+Compound 18	Sweet	Rojas et al. (2017)	Oc1cccc(c1)C1OCc2c(S1)cccc2	Oc1cccc(c1)C1OCc2c(S1)cccc2		True
+Compound 19	Tasteless	Rojas et al. (2017)	CCNC(=O)Oc1cc(ccc1OC)C1OCc2c(S1)cccc2	CCNC(=O)Oc1cc(ccc1OC)C1OCc2c(S1)cccc2		False
+Compound 30	Tasteless	Rojas et al. (2017)	COc1ccc(cc1O)C1Oc2ccccc2OC1C	COc1ccc(cc1O)C1Oc2ccccc2OC1C		False
+2-(4-methoxybenzoyl) benzoic acid	Sweet	Rojas et al. (2017)	COc1ccc(cc1)C(=O)c1ccccc1C(=O)O	COc1ccc(cc1)C(=O)c1ccccc1C(=O)O		True
+Compound 3	Sweet	Rojas et al. (2017)	Cc1ccc(cc1)C(=O)c1ccccc1C(=O)O	Cc1ccc(cc1)C(=O)c1ccccc1C(=O)O		True
+Compound 7	Sweet	Rojas et al. (2017)	Oc1ccc(cc1)C(=O)c1ccccc1C(=O)O	Oc1ccc(cc1)C(=O)c1ccccc1C(=O)O		True
+2-(4-Nitrobenzoyl)benzoic Acid (10)	Bitter	Rojas et al. (2017)	O=C(c1ccccc1C(=O)O)c1ccc(cc1)N(=O)=O	O=C(c1ccccc1C(=O)O)c1ccc(cc1)N(=O)=O		False
+Compound 12	Sweet	Rojas et al. (2017)	Clc1ccc(cc1)C(=O)c1ccccc1C(=O)O	Clc1ccc(cc1)C(=O)c1ccccc1C(=O)O		True
+2-(3-Hydroxy-4-methoxybenzoyl)benzoic Acid (15)	Sweet	Rojas et al. (2017)	COc1ccc(cc1O)C(=O)c1ccccc1C(=O)O	COc1ccc(cc1O)C(=O)c1ccccc1C(=O)O		True
+2-(4-Hydroxy-3-methoxybenzoyl)benzoic Acid (16)	Tasteless	Rojas et al. (2017)	COc1cc(ccc1O)C(=O)c1ccccc1C(=O)O	COc1cc(ccc1O)C(=O)c1ccccc1C(=O)O		False
+2-(3,4-Dimethoxybenzoyl)benzoic Acid (17)	Tasteless	Rojas et al. (2017)	COc1cc(ccc1OC)C(=O)c1ccccc1C(=O)O	COc1cc(ccc1OC)C(=O)c1ccccc1C(=O)O		False
+2-(2,4-Dimethoxybenzoyl)benzoic Acid (18)	Bitter	Rojas et al. (2017)	COc1cc(OC)ccc1C(=O)c1ccccc1C(=O)O	COc1cc(OC)ccc1C(=O)c1ccccc1C(=O)O		False
+Compound 20	Tasteless	Rojas et al. (2017)	COc1ccc(cc1)Cc1ccccc1C(=O)O	COc1ccc(cc1)Cc1ccccc1C(=O)O		False
+Compound 21	Tasteless	Rojas et al. (2017)	COc1ccc(cc1)Oc1ccccc1C(=O)O	COc1ccc(cc1)Oc1ccccc1C(=O)O		False
+Phthalic Acid Mono(4-methoxyphenyl) Ester (27)	Sweet	Rojas et al. (2017)	COc1ccc(cc1)OC(=O)c1ccccc1C(=O)O	COc1ccc(cc1)OC(=O)c1ccccc1C(=O)O		True
+Spiro[(4-H-1,3-benzodithian)-2,1'-(4'-hydroxy-5'-methoxy-[1H]-2',3'-dihydroindene)] (8)	Tasteless	Rojas et al. (2017)	COc1ccc2c(c1O)CCC12SCc2c(S1)cccc2	COc1ccc2c(c1O)CCC12SCc2c(S1)cccc2		False
+2-Methyl-2-(3-hydroxy-4-methoxyphenyl)-1,4-dihydrobenzodioxane (12)	Tasteless	Rojas et al. (2017)	COc1ccc(cc1O)C1(C)COc2c(O1)cccc2	COc1ccc(cc1O)C1(C)COc2c(O1)cccc2		False
+3',4'-dihydroxyphenyl-3,1-benzoxathiane (18)	Sweet	Rojas et al. (2017)	Oc1ccc(cc1O)C1OCc2c(S1)cccc2	Oc1ccc(cc1O)C1OCc2c(S1)cccc2		True
+Compound 32	Sweet	Rojas et al. (2017)	COc1ccc(cc1O)CCC(=O)c1c(O)cc(cc1O)O	COc1ccc(cc1O)CCC(=O)c1c(O)cc(cc1O)O		True
+Compound IV	Tasteless	Rojas et al. (2017)	COc1cc(ccc1OC)C1OC(=O)c2c(C1)cccc2OC	COc1cc(ccc1OC)C1OC(=O)c2c(C1)cccc2OC		False
+Compound VIII	Tasteless	Rojas et al. (2017)	COc1cc(ccc1O)C1OC(=O)c2c(C1)cccc2	COc1cc(ccc1O)C1OC(=O)c2c(C1)cccc2		False
+Compound X	Tasteless	Rojas et al. (2017)	COc1ccc(cc1)C1OC(=O)c2c(C1)cccc2	COc1ccc(cc1)C1OC(=O)c2c(C1)cccc2		False
+Compound XII	Tasteless	Rojas et al. (2017)	COc1ccc(cc1O)Cc1ccccc1	COc1ccc(cc1O)Cc1ccccc1		False
+Compound XVI	Tasteless	Rojas et al. (2017)	COc1ccc(cc1O)C=Cc1ccccc1	COc1ccc(cc1O)C=Cc1ccccc1		False
+Compound XX	Bitter	Rojas et al. (2017)	CCOC(=O)C(c1ccccc1)Cc1ccc(c(c1)O)OC	CCOC(=O)C(c1ccccc1)Cc1ccc(c(c1)O)OC		False
+Compound XXIV	Sweet	Rojas et al. (2017)	COc1ccc(cc1O)NCc1ccccc1	COc1ccc(cc1O)NCc1ccccc1		True
+Compound XXX	Sweet	Rojas et al. (2017)	COc1ccc(cc1O)COC(=O)c1ccccc1O	COc1ccc(cc1O)COC(=O)c1ccccc1O		True
+Compound XXXV	Tasteless	Rojas et al. (2017)	COc1ccc(cc1O)CNCC(C)(C)C	COc1ccc(cc1O)CNCC(C)(C)C		False
+Compound XXXIX	Tasteless	Rojas et al. (2017)	COc1ccc(cc1O)CCc1ccc2c(c1)cccc2	COc1ccc(cc1O)CCc1ccc2c(c1)cccc2		False
+Compound XLVII	Sweet	Rojas et al. (2017)	COc1ccc(cc1O)CCc1cccc(c1)C	COc1ccc(cc1O)CCc1cccc(c1)C		True
+Compound LI	Tasteless	Rojas et al. (2017)	COC(=O)c1cccc(c1)CCc1ccc(c(c1)O)OC	COC(=O)c1cccc(c1)CCc1ccc(c(c1)O)OC		False
+Compound LVI	Tasteless	Rojas et al. (2017)	OCc1ccc(cc1)CCc1ccc(c(c1)O)OC	OCc1ccc(cc1)CCc1ccc(c(c1)O)OC		False
+Compound LIX	Sweet	Rojas et al. (2017)	COc1ccc(cc1O)CCc1ccc(cc1)F	COc1ccc(cc1O)CCc1ccc(cc1)F		True
+Compound LXII	Tasteless	Rojas et al. (2017)	COc1ccc(cc1O)CCc1ccc(c(c1)O)OC	COc1ccc(cc1O)CCc1ccc(c(c1)O)OC		False
+Compound LXV	Sweet	Rojas et al. (2017)	COc1ccc(cc1O)CCc1ccc2c(c1)OCO2	COc1ccc(cc1O)CCc1ccc2c(c1)OCO2		True
+Compound LXVI	Sweet	Rojas et al. (2017)	CCOc1ccc(cc1O)CCc1ccccc1	CCOc1ccc(cc1O)CCc1ccccc1		True
+Compound LXXIV	Bitter	Rojas et al. (2017)	COCC(CCCCc1ccccc1)O	COCC(CCCCc1ccccc1)O		False
+Compound LXXVIII	Sweet	Rojas et al. (2017)	COc1ccc(cc1O)C1OC(=O)c2c(O1)cccc2	COc1ccc(cc1O)C1OC(=O)c2c(O1)cccc2		True
+Compound LXXX	Sweet	Rojas et al. (2017)	COc1ccc(cc1O)C1NC(=O)c2c(C1)cccc2O	COc1ccc(cc1O)C1NC(=O)c2c(C1)cccc2O		True
+Compound XCVI	Sweet	Rojas et al. (2017)	CCOc1ccc(cc1O)CCC(=O)c1ccccc1O	CCOc1ccc(cc1O)CCC(=O)c1ccccc1O		True
+Nitrobenzene	Sweet	Rojas et al. (2017)	O=N(=O)c1ccccc1	O=N(=O)c1ccccc1		True
+m-Nitrobenzene	Bitter	Rojas et al. (2017)	O=N(=O)c1cccc(c1)N(=O)=O	O=N(=O)c1cccc(c1)N(=O)=O		False
+Phenylthiourea	Bitter	Rojas et al. (2017)	NC(=S)Nc1ccccc1	NC(=S)Nc1ccccc1		False
+Phloroglucinol	Sweet	Rojas et al. (2017)	Oc1cc(O)cc(c1)O	Oc1cc(O)cc(c1)O		True
+4-O-Methyl sucrose	Sweet	Rojas et al. (2017)	COC1C(CO)OC(C(C1O)O)OC1(CO)OC(C(C1O)O)CO	COC1C(CO)OC(C(C1O)O)OC1(CO)OC(C(C1O)O)CO		True
+4,6'-di-O-Methyl sucrose	Sweet	Rojas et al. (2017)	COCC1OC(C(C1O)O)(CO)OC1OC(CO)C(C(C1O)O)OC	COCC1OC(C(C1O)O)(CO)OC1OC(CO)C(C(C1O)O)OC		True
+6-Chloro-6-deoxy-D-galactose	Tasteless	Rojas et al. (2017)	COC1OC(CCl)C(C(C1O)O)O	COC1OC(CCl)C(C(C1O)O)O		False
+1,6-dichloro-1,6-deoxy-D-fructofuranose	Sweet	Rojas et al. (2017)	ClCC1OC(C(C1O)O)(O)CCl	ClCC1OC(C(C1O)O)(O)CCl		True
+6'-Chloro-sucrose	Sweet	Rojas et al. (2017)	ClCC1OC(C(C1O)O)(CO)OC1OC(CO)C(C(C1O)O)O	ClCC1OC(C(C1O)O)(CO)OC1OC(CO)C(C(C1O)O)O		True
+Alanine	Sweet	Rojas et al. (2017)	CC(C(=O)O)N	CC(C(=O)O)N		True
+Asparagine	Sweet	Rojas et al. (2017)	NC(=O)CC(C(=O)O)N	NC(=O)CC(C(=O)O)N		True
+N-(L-aspartyl)-1,1-diaminoalkane 3	Sweet	Rojas et al. (2017)	CC(NC(=O)C1CCCC1)NC(=O)C(CC(=O)O)N	CC(NC(=O)C1CCCC1)NC(=O)C(CC(=O)O)N		True
+N-(L-aspartyl)-1,1-diaminoalkane 4	Sweet	Rojas et al. (2017)	CC(NC(=O)C1C(C)(C)CCC1(C)C)NC(=O)C(CC(=O)O)N	CC(NC(=O)C1C(C)(C)CCC1(C)C)NC(=O)C(CC(=O)O)N		True
+N-(L-aspartyl)-1,1-diaminoalkane 9	Sweet	Rojas et al. (2017)	CC(NC(=O)C12CC3CC(C2)CC(C1)C3)NC(=O)C(CC(=O)O)N	CC(NC(=O)C12CC3CC(C2)CC(C1)C3)NC(=O)C(CC(=O)O)N		True
+Cyanoarylurea aspartame	Sweet	Rojas et al. (2017)	COC(=O)C(Cc1ccccc1)CC(=O)CNC(=O)Nc1ccc(cc1)C#N	COC(=O)C(Cc1ccccc1)CC(=O)CNC(=O)Nc1ccc(cc1)C#N		True
+Chloro-nitroaniline	Sweet	Rojas et al. (2017)	O=N(=O)c1ccc(c(c1)N)Cl	O=N(=O)c1ccc(c(c1)N)Cl		True
+Saccharine derivative 3	Bitter	Rojas et al. (2017)	O=C1NS(=O)(=O)c2c1cc(cc2)N(=O)=O	O=C1NS(=O)(=O)c2c1cc(cc2)N(=O)=O		False
+Saccharine derivative 8	Tasteless	Rojas et al. (2017)	CCN1C(=O)c2c(S1(=O)=O)cccc2	CCN1C(=O)c2c(S1(=O)=O)cccc2		False
+Saccharine derivative 13	Sweet	Rojas et al. (2017)	Fc1ccc2c(c1)S(=O)(=O)NC2=O	Fc1ccc2c(c1)S(=O)(=O)NC2=O		True
+Saccharine derivative 16	Sweet	Rojas et al. (2017)	Oc1ccc2c(c1)S(=O)(=O)NC2=O	Oc1ccc2c(c1)S(=O)(=O)NC2=O		True
+Saccharine derivative 21	Tasteless	Rojas et al. (2017)	Nc1ccc2c(c1)C(=O)NS2(=O)=O	Nc1ccc2c(c1)C(=O)NS2(=O)=O		False
+Saccharine derivative 23	Sweet	Rojas et al. (2017)	O=C1NS(=O)(=O)c2c1c(Cl)ccc2	O=C1NS(=O)(=O)c2c1c(Cl)ccc2		True
+Thiophenesaccharine	Sweet	Rojas et al. (2017)	O=C1NS(=O)(=O)c2c1csc2	O=C1NS(=O)(=O)c2c1csc2		True
+syn-hydroxymethyl Furfuraldehyde oxime	Tasteless	Rojas et al. (2017)	ON=Cc1ccc(o1)CO	ON=Cc1ccc(o1)CO		False
+meta-Tolylurea	Bitter	Rojas et al. (2017)	NC(=O)Nc1cccc(c1)C	NC(=O)Nc1cccc(c1)C		False
+Suosan derivative 1 (suosan)	Sweet	Rojas et al. (2017)	O=C(Nc1ccc(cc1)N(=O)=O)NCCC(=O)O	O=C(Nc1ccc(cc1)N(=O)=O)NCCC(=O)O		True
+Suosan derivative 4	Tasteless	Rojas et al. (2017)	COC(=O)CCNC(=O)Nc1ccc(cc1)N(=O)=O	COC(=O)CCNC(=O)Nc1ccc(cc1)N(=O)=O		False
+Suosan derivative 6	Tasteless	Rojas et al. (2017)	O=C(Nc1ccc(cc1)N(=O)=O)NCCCC(=O)O	O=C(Nc1ccc(cc1)N(=O)=O)NCCCC(=O)O		False
+Suosan derivative 7	Tasteless	Rojas et al. (2017)	O=C(Nc1ccc(cc1)N(=O)=O)NCCC(=O)OS(=O)(=O)O	O=C(Nc1ccc(cc1)N(=O)=O)NCCC(=O)OS(=O)(=O)O		False
+Suosan derivative 13	Sweet	Rojas et al. (2017)	OC(=O)CCNC(=O)Oc1ccc(cc1)N(=O)=O	OC(=O)CCNC(=O)Oc1ccc(cc1)N(=O)=O		True
+Suosan derivative 14	Tasteless	Rojas et al. (2017)	O=C(NNc1ccc(cc1)N(=O)=O)CCC(=O)O	O=C(NNc1ccc(cc1)N(=O)=O)CCC(=O)O		False
+Pyrrolidine	Bitter	Rojas et al. (2017)	C1CCCN1	C1CCCN1		False
+Purine	Bitter	Rojas et al. (2017)	c1ccc2c(c1)[nH]cn2	c1ccc2c(c1)[nH]cn2		False
+Pyridine	Bitter	Rojas et al. (2017)	c1cccnc1	c1cccnc1		False
+Solanine	Bitter	Rojas et al. (2017)	OCC1OC(OC2CCC3(C(=CCC4C3CCC3(C4CC4C3C(C)C3N4CCC(C3)C)C)C2)C)C(C(C1O)OC1OC(CO)C(C(C1O)O)O)OC1OC(C)C(C(C1O)O)O	OCC1OC(OC2CCC3(C(=CCC4C3CCC3(C4CC4C3C(C)C3N4CCC(C3)C)C)C2)C)C(C(C1O)OC1OC(CO)C(C(C1O)O)O)OC1OC(C)C(C(C1O)O)O		False
+Diterpene derivative 1	Bitter	Rojas et al. (2017)	O=CC1C(C)(C)CCC2C1(COC(=O)C)C1C(O)CC3CC1(C(=O)O2)C(=O)C3=C	O=CC1C(C)(C)CCC2C1(COC(=O)C)C1C(O)CC3CC1(C(=O)O2)C(=O)C3=C		False
+Denatonium chloride derivative 2	Bitter	Rojas et al. (2017)	BrCC[N](CC(=O)Nc1c(C)cccc1C)(C)C	BrCC[N](CC(=O)Nc1c(C)cccc1C)(C)C		False
+Denatonium chloride derivative 12	Bitter	Rojas et al. (2017)	CCCC[N](Cc1ccc(cc1)Cl)(CC(=O)Nc1c(C)cccc1C)C	CCCC[N](Cc1ccc(cc1)Cl)(CC(=O)Nc1c(C)cccc1C)C		False
+Denatonium chloride derivative 13	Bitter	Rojas et al. (2017)	Clc1ccc(cc1)C[N](Cc1ccccc1)(CC(=O)Nc1c(C)cccc1C)C	Clc1ccc(cc1)C[N](Cc1ccccc1)(CC(=O)Nc1c(C)cccc1C)C		False
+Oxathiazinon dioxide derivative 2	Sweet	Rojas et al. (2017)	CCC1=CC(=O)NS(=O)(=O)O1	CCC1=CC(=O)NS(=O)(=O)O1		True
+Oxathiazinon dioxide derivative 4	Sweet	Rojas et al. (2017)	CCC1=C(C)OS(=O)(=O)NC1=O	CCC1=C(C)OS(=O)(=O)NC1=O		True
+3-anilino-2-styryl-3H-naphthol[l, 2-d]imidazole-5-sulfonate (SSN)	Sweet	Rojas et al. (2017)	CC(=C(c1nc2c(n1Nc1ccccc1)cc(c1c2cccc1)S(=O)(=O)O)C)c1ccccc1	CC(=C(c1nc2c(n1Nc1ccccc1)cc(c1c2cccc1)S(=O)(=O)O)C)c1ccccc1		True
+1',4'-2Cl-sucrose	Sweet	Rojas et al. (2017)	ClC1C(O)[C@@](OC1CO)(OC1OC(CO)C(O)C(O)C1O)CCl	OCC1O[C@@](C(C1Cl)O)(CCl)OC1OC(CO)C(C(C1O)O)O		True
+4,4',6'-3Cl-sucrose	Sweet	Rojas et al. (2017)	ClC1C(O)C(O)C(OC1CO)O[C@@]1(OC(CCl)C(Cl)C1O)CO	ClCC1O[C@@](C(C1Cl)O)(CO)OC1OC(CO)C(C(C1O)O)Cl		True
+4,6,1',6'-4Cl-sucrose	Sweet	Rojas et al. (2017)	ClC1C(O)C(O)C(OC1CCl)O[C@@]1(OC(CCl)C(O)C1O)CCl	ClCC1O[C@@](C(C1O)O)(CCl)OC1OC(CCl)C(C(C1O)O)Cl		True
+4-F-1',4',6'-3Cl-sucrose	Sweet	Rojas et al. (2017)	ClC1C(O)[C@@](OC1CCl)(OC1OC(CO)C(F)C(O)C1O)CCl	ClCC1O[C@@](C(C1Cl)O)(CCl)OC1OC(CO)C(C(C1O)O)F		True
+6-chloro-tryptophan	Sweet	Rojas et al. (2017)	Clc1c2c([nH]cc2CC(N)C(O)=O)ccc1	OC(=O)C(Cc1c[nH]c2c1c(Cl)ccc2)N		True
+Liquiritin	Sweet	Rojas et al. (2017)	O1C(CO)C(O)C(O)C(O)C1Oc1ccc(cc1)C1Oc2c(ccc(O)c2)C(=O)C1	OCC1OC(Oc2ccc(cc2)C2CC(=O)c3c(O2)cc(cc3)O)C(C(C1O)O)O		True
+Abrusoside D	Sweet	Rojas et al. (2017)	O1[C@H](OC2CC[C@@]34[C@@H](CC[C@H]5[C@@]3(CC[C@]3(C)[C@]5(CC[C@@H]3C(C)[C@@H]3OC(=O)C(=CC3)C)C)C4)[C@]2(C(O)=O)C)C(O[C@H]2OC(CO)C(O)C(O)C2O)C(O)C(O)C1C(O)=O	OCC1O[C@H](OC2[C@H](OC(C(C2O)O)C(=O)O)OC2CC[C@]34[C@H]([C@@]2(C)C(=O)O)CC[C@H]2[C@]4(C3)CC[C@@]3([C@@]2(C)CC[C@@H]3C([C@H]2CC=C(C(=O)O2)C)C)C)C(C(C1O)O)O		True
+Acesulfame potassium_CH3CH2CH2_CH3	Sweet	Rojas et al. (2017)	S1(OC(C)=C(CCC)C(=O)N1)(=O)=O	CCCC1=C(C)OS(=O)(=O)NC1=O		True
+Asp 3	Sweet	Rojas et al. (2017)	OC(=O)CC(N)C(=O)NC(Cc1ccccc1)C	CC(Cc1ccccc1)NC(=O)C(CC(=O)O)N		True
+Asp 10	Sweet	Rojas et al. (2017)	OC(=O)CC(N)C(=O)NC(CCCCC)C	CCCCCC(NC(=O)C(CC(=O)O)N)C		True
+Asp 18	Sweet	Rojas et al. (2017)	OC(=O)CC(N)C(=O)NC(C(CCCCC)C)C	CCCCCC(C(NC(=O)C(CC(=O)O)N)C)C		True
+Asp 53	Sweet	Rojas et al. (2017)	O(C(=O)C(NC(=O)C(N)CC(O)=O)CCCNOC(=O)C)C	COC(=O)C(NC(=O)C(CC(=O)O)N)CCCNOC(=O)C		True
+Asp 62	Sweet	Rojas et al. (2017)	S(C(C)C)CC(NC(=O)C(N)CC(O)=O)C(OC)=O	COC(=O)C(NC(=O)C(CC(=O)O)N)CSC(C)C		True
+Asp 66	Sweet	Rojas et al. (2017)	O(C(=O)C(NC(=O)C(N)CC(O)=O)CCC(OC)=O)C	COC(=O)CCC(C(=O)OC)NC(=O)C(CC(=O)O)N		True
+Asp 76	Sweet	Rojas et al. (2017)	O(C(=O)C=C)CC(NC(=O)C(N)CC(O)=O)C	CC(NC(=O)C(CC(=O)O)N)COC(=O)C=C		True
+Asp 77	Sweet	Rojas et al. (2017)	O(C(=O)CCC)CC(NC(=O)C(N)CC(O)=O)C	CCCC(=O)OCC(NC(=O)C(CC(=O)O)N)C		True
+Asp 81	Sweet	Rojas et al. (2017)	O(C(=O)CCCC)CC(NC(=O)C(N)CC(O)=O)C	CCCCC(=O)OCC(NC(=O)C(CC(=O)O)N)C		True
+Asp 83	Sweet	Rojas et al. (2017)	O(C(=O)CC(C)C)CC(NC(=O)C(N)CC(O)=O)C	CC(CC(=O)OCC(NC(=O)C(CC(=O)O)N)C)C		True
+Asp 85	Sweet	Rojas et al. (2017)	O(C(=O)C1CC1C)CC(NC(=O)C(N)CC(O)=O)C	CC(NC(=O)C(CC(=O)O)N)COC(=O)C1CC1C		True
+Asp 88	Sweet	Rojas et al. (2017)	O(C(=O)C1CCC1C)CC(NC(=O)C(N)CC(O)=O)C	CC(NC(=O)C(CC(=O)O)N)COC(=O)C1CCC1C		True
+Asp 90	Sweet	Rojas et al. (2017)	O(C(=O)C)CC(NC(=O)C(N)CC(O)=O)CO	OCC(NC(=O)C(CC(=O)O)N)COC(=O)C		True
+Asp 105	Sweet	Rojas et al. (2017)	O(C(=O)CC)CC(NC(=O)C(N)CC(O)=O)C(O)C	CC(C(NC(=O)C(CC(=O)O)N)COC(=O)CC)O		True
+Asp 107	Sweet	Rojas et al. (2017)	O(C(=O)CC)CC(NC(=O)C(N)CC(O)=O)C(C)C	CCC(=O)OCC(C(C)C)NC(=O)C(CC(=O)O)N		True
+Asp 108	Sweet	Rojas et al. (2017)	O(C(=O)C(C)C)CC(NC(=O)C(N)CC(O)=O)C(C)C	CC(C(NC(=O)C(CC(=O)O)N)COC(=O)C(C)C)C		True
+Asp 109	Sweet	Rojas et al. (2017)	O(C(=O)C1CC1)CC(NC(=O)C(N)CC(O)=O)C(C)C	CC(C(NC(=O)C(CC(=O)O)N)COC(=O)C1CC1)C		True
+Asp 110	Sweet	Rojas et al. (2017)	O(C(=O)C1CCC1)CC(NC(=O)C(N)CC(O)=O)C(C)C	CC(C(NC(=O)C(CC(=O)O)N)COC(=O)C1CCC1)C		True
+Asp 112	Sweet	Rojas et al. (2017)	O(C(=O)C)CC(NC(=O)C(N)CC(O)=O)CCC	CCCC(NC(=O)C(CC(=O)O)N)COC(=O)C		True
+Asp 124	Sweet	Rojas et al. (2017)	O(C(=O)CCC)CC(NC(=O)C(N)CC(O)=O)C(OC)=O	CCCC(=O)OCC(C(=O)OC)NC(=O)C(CC(=O)O)N		True
+Asp 129	Sweet	Rojas et al. (2017)	O(C(C)C)C(=O)CC(NC(=O)C(N)CC(O)=O)C	CC(CC(=O)OC(C)C)NC(=O)C(CC(=O)O)N		True
+Asp 131	Sweet	Rojas et al. (2017)	O(C(C)(C)C)C(=O)CC(NC(=O)C(N)CC(O)=O)C	CC(CC(=O)OC(C)(C)C)NC(=O)C(CC(=O)O)N		True
+Asp 138	Sweet	Rojas et al. (2017)	O(C(=O)CCNC(=O)C(N)CC(O)=O)C1CCCC1	O=C(OC1CCCC1)CCNC(=O)C(CC(=O)O)N		True
+Asp 139	Sweet	Rojas et al. (2017)	O(C(=O)CCNC(=O)C(N)CC(O)=O)C1CCCCC1	OC(=O)CC(C(=O)NCCC(=O)OC1CCCCC1)N		True
+Asp 141	Sweet	Rojas et al. (2017)	O(C(C)(C)C)C(=O)C(CNC(=O)C(N)CC(O)=O)C	CC(C(=O)OC(C)(C)C)CNC(=O)C(CC(=O)O)N		True
+Asp 157	Sweet	Rojas et al. (2017)	O(C(C)(C)C)C(=O)CC(NC(=O)C(N)CC(O)=O)C(OC)=O	COC(=O)C(NC(=O)C(CC(=O)O)N)CC(=O)OC(C)(C)C		True
+Asp 159	Sweet	Rojas et al. (2017)	O(C(=O)C(NC(=O)C(N)CC(O)=O)CC)C	CCC(C(=O)OC)NC(=O)C(CC(=O)O)N		True
+Asp 163	Sweet	Rojas et al. (2017)	O(C(C)C)C(=O)C(NC(=O)C(N)CC(O)=O)CO	OCC(C(=O)OC(C)C)NC(=O)C(CC(=O)O)N		True
+Asp 164	Sweet	Rojas et al. (2017)	O(C(=O)C(NC(=O)C(N)CC(O)=O)CO)CCCC	CCCCOC(=O)C(NC(=O)C(CC(=O)O)N)CO		True
+Asp 166	Sweet	Rojas et al. (2017)	O(C(=O)C(NC(=O)C(N)CC(O)=O)CO)C1CCCCC1	OCC(C(=O)OC1CCCCC1)NC(=O)C(CC(=O)O)N		True
+Asp 170	Sweet	Rojas et al. (2017)	O(C(C)C)C(=O)C(NC(=O)C(N)CC(O)=O)C(O)C	OC(=O)CC(C(=O)NC(C(=O)OC(C)C)C(O)C)N		True
+Asp 181	Sweet	Rojas et al. (2017)	O(C(=O)C(NC(=O)C(N)CC(O)=O)CC)CCC	CCCOC(=O)C(NC(=O)C(CC(=O)O)N)CC		True
+Asp 189	Sweet	Rojas et al. (2017)	O(C(C)C)C(=O)C(NC(=O)C(N)CC(O)=O)C	CC(C(=O)OC(C)C)NC(=O)C(CC(=O)O)N		True
+Asp 208	Sweet	Rojas et al. (2017)	O(C(OC(=O)C(NC(=O)C(N)CC(O)=O)C(OC)=O)=O)C1CC2CC[C@]1(C)C2(C)C	COC(=O)C(C(=O)OC(=O)OC1CC2C([C@@]1(C)CC2)(C)C)NC(=O)C(CC(=O)O)N		True
+Aspartame-acesulfame salt	Sweet	Rojas et al. (2017)	S1(OC(=CC(=O)N1)C)(=O)=O.O(C(=O)C(NC(=O)C(N)CC(O)=O)Cc1ccccc1)C	O=C1C=C(C)OS(=O)(=O)N1.COC(=O)C(NC(=O)C(CC(=O)O)N)Cc1ccccc1		True
+Calcium cyclamate	Sweet	Rojas et al. (2017)	[CaH2].S(O)(=O)(=O)NC1CCCCC1.S(O)(=O)(=O)NC1CCCCC1	OS(=O)(=O)NC1CCCCC1.OS(=O)(=O)NC1CCCCC1.[CaH2]		True
+Calcium saccharin	Sweet	Rojas et al. (2017)	[CaH2].S1(=O)(=O)NC(=O)c2c1cccc2.S1(=O)(=O)NC(=O)c2c1cccc2	O=C1NS(=O)(=O)c2c1cccc2.O=C1NS(=O)(=O)c2c1cccc2.[CaH2]		True
+Homoeohesperidin DHC	Sweet	Rojas et al. (2017)	O1C(CO)C(O)C(O)C(O[C@H]2OC(C)C(O)C(O)C2O)C1Oc1cc(O)c(C(=O)CCc2cc(O)c(OCC)cc2)c(O)c1	CCOc1ccc(cc1O)CCC(=O)c1c(O)cc(cc1O)OC1OC(CO)C(C(C1O[C@H]1OC(C)C(C(C1O)O)O)O)O		True
+Isovanillic 24	Sweet	Rojas et al. (2017)	O1c2cc(O)c(O)cc2C2c3c(OC[C@@]12O)c(O)c(O)cc3	Oc1cc2O[C@]3(C(c2cc1O)c1ccc(c(c1OC3)O)O)O		True
+Naringin DHC	Sweet	Rojas et al. (2017)	O1C(CO)C(O)C(O)C(OC2OC(C)C(O)C(O)C2O)C1Oc1cc(O)c(C(=O)CCc2ccc(O)cc2)c(O)c1	OCC1OC(Oc2cc(O)c(c(c2)O)C(=O)CCc2ccc(cc2)O)C(C(C1O)O)OC1OC(C)C(C(C1O)O)O		True
+Polypodoside A	Sweet	Rojas et al. (2017)	O1[C@H](OC2CC[C@]3([C@H](C2)C(=O)C=C2[C@H]4CC[C@H](C(C)[C@@H]5OC(O[C@H]6OC(C)C(O)C(O)C6O)C(CC5)C)[C@@]4(CC[C@H]23)C)C)C(O[C@H]2OC(C)C(O)C(O)C2O)C(O)C(O)C1CO	OCC1O[C@H](OC2CC[C@]3([C@H](C2)C(=O)C=C2[C@H]3CC[C@@]3([C@@H]2CC[C@@H]3C([C@H]2CCC(C(O2)O[C@H]2OC(C)C(C(C2O)O)O)C)C)C)C)C(C(C1O)O)O[C@H]1OC(C)C(C(C1O)O)O		True
+Potassium glycyrrhizinate	Sweet	Rojas et al. (2017)	[KH].O1[C@H](OC2CC[C@@]3([C@H]4[C@@](CC[C@H]3C2(C)C)(C)[C@@]2(CC[C@@]3([C@H](C2=CC4=O)C[C@@](CC3)(C(O)=O)C)C)C)C)C(O[C@H]2OC(C(O)=O)C(O)C(O)C2O)C(O)C(O)C1C(O	OCC1O[C@H](OC2CC[C@]3([C@H](C2(C)C)CC[C@]2([C@H]3C(=O)C=C3[C@@]2(C)CC[C@@]2([C@H]3C[C@@](C)(CC2)C(=O)O)C)C)C)C(C(C1O)O)O[C@H]1OC(C(=O)O)C(C(C1O)O)O.[KH]		True
+Potassium saccharin	Sweet	Rojas et al. (2017)	[KH].S1(=O)(=O)NC(=O)c2c1cccc2	O=C1NS(=O)(=O)c2c1cccc2.[KH]		True
+Pterocaryoside B	Sweet	Rojas et al. (2017)	O1CC(O)C(O)C(O)[C@@H]1OC1[C@@H]2[C@@](CC[C@@H]2[C@@](O)(C\C=C\C(O)(C)C)C)(C)[C@]2([C@@H](C1)[C@@](CCC(O)=O)(C)C(CC2)C(C)=C)C	OC(=O)CC[C@]1(C)C(CC[C@@]2([C@H]1CC(O[C@@H]1OCC(C(C1O)O)O)[C@@H]1[C@]2(C)CC[C@@H]1[C@](C/C=C/C(O)(C)C)(O)C)C)C(=C)C		True
+Tripotassium glycyrrhizinate	Sweet	Rojas et al. (2017)	[KH].[KH].[KH].O1[C@@H](OC2CC[C@@]3([C@H]4[C@@](CC[C@@H]3C2(C)C)(C)[C@@]2(CC[C@@]3([C@@H](C2=CC4=O)C[C@@](CC3)(C(O)=O)C)C)C)C)C(O[C@@H]2OC(C(O)=O)C(O)C(O)C2O	[KH].[KH].[KH].O1[C@@H](OC2CC[C@@]3([C@H]4[C@@](CC[C@@H]3C2(C)C)(C)[C@@]2(CC[C@@]3([C@@H](C2=CC4=O)C[C@@](CC3)(C(O)=O)C)C)C)C)C(O[C@@H]2OC(C(O)=O)C(O)C(O)C2O		True
