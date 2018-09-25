@@ -1,7 +1,21 @@
-# BitterSweet: A study on building machine learning models for predicting the bitter and sweet taste of small molecules
+# BitterSweet: Building machine learning models for predicting the bitter and sweet taste of small molecules
 
 ## Abstract
-The dichotomy of sweet and bitter tastes is a salient evolutionary feature of human gustatory system with an innate attraction to sweet taste and aversion to bitterness. A better understanding of molecular correlates of bitter-sweet taste gradient is crucial for identification of natural as well as synthetic compounds of desirable taste on this axis. While previous studies have advanced our understanding of the molecular basis of bitter-sweet taste and contributed models for their identification, there is ample scope to enhance these models by meticulous compilation of bitter-sweet molecules and utilization of a wide spectrum of molecular descriptors. Towards these goals, our study provides a structured compilation of bitter, sweet and tasteless molecules and state-of-the-art machine learning models for bitter-sweet taste prediction (BitterSweet). We compare different sets of molecular descriptors for their predictive performance and further identify important features as well as feature blocks.  To facilitate future research in this direction, we make all datasets and BitterSweet models publicly available, and present an end-to-end software for bitter-sweet taste prediction based on freely available chemical descriptors. The utility of BitterSweet models is demonstrated by taste prediction on large specialized chemical sets such as FlavorDB, FooDB, SuperSweet, Super Natural II, DSSTox, and DrugBank. 
+The dichotomy of sweet and bitter tastes is a salient evolutionary feature of human
+gustatory system with an innate attraction to sweet taste and aversion to bitterness. A better
+understanding of molecular correlates of bitter-sweet taste gradient is crucial for identification of
+natural as well as synthetic compounds of desirable taste on this axis. While previous studies have
+advanced our understanding of the molecular basis of bitter-sweet taste and contributed models for
+their identification, there is ample scope to enhance these models by meticulous compilation of bitter-
+sweet molecules and utilization of a wide spectrum of molecular descriptors. Towards these goals,
+based on structured data compilation our study provides an integrative framework with state-of-the-art
+machine learning models for bitter-sweet taste prediction (BitterSweet). We compare different sets of
+molecular descriptors for their predictive performance and further identify important features as well
+as feature blocks. The utility of BitterSweet models is demonstrated by taste prediction on large
+specialized chemical sets such as FlavorDB, FooDB, SuperSweet, Super Natural II, DSSTox, and
+DrugBank. To facilitate future research in this direction, we make all datasets and BitterSweet models
+publicly available, and also present an end-to-end software for bitter-sweet taste prediction based on
+freely available chemical descriptors.
 
 ## Authors
 1. Rudraksh Tuwani
